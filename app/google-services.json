@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "902503137639",
+    "firebase_url": "https://financial-219fc.firebaseio.com",
+    "project_id": "financial-219fc",
+    "storage_bucket": "financial-219fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902503137639:android:a1a6b3ba7bd30402ccafc2",
+        "android_client_info": {
+          "package_name": "com.example.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902503137639-q8e8u3ned9qk7p3c5dpo6kbc4273c8f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAppDJnse41287-zfvXLzJJaw9xOUIcVPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902503137639-q8e8u3ned9qk7p3c5dpo6kbc4273c8f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
